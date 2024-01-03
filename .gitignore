@@ -1,0 +1,46 @@
+# Compiled output
+dist
+tmp
+out-tsc
+bazel-out
+/public
+logs
+
+# DB Data
+/db
+.mongo-data
+.postgres-data
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.vscode
+idea/
+.idea
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+history/*
+
+# Miscellaneous
+.angular
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+.env
